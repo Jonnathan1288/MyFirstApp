@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mi Primera App</string>
+    <string name="Registrar">Sign In</string>
+    <string name="Ingresar">Sign Up</string>
+    <string name="Email">Ingrese su Email</string>
+    <string name="Password">Contraseña</string>
+    <string name="Img">img</string>
+    <string name="Tv">Texto</string>
+
+</resources>

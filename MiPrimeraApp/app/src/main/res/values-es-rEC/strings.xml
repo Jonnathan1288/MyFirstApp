@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Registrar">Registrarse</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="app_name">App</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Img">img</string>
+    <string name="Tv">Text</string>
+</resources>
